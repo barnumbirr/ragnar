@@ -1,4 +1,4 @@
-<h1><img src="https://raw.githubusercontent.com/mrsmn/ragnar/master/doc/ragnar.png" height=85 alt="ragnar" title="ragnar"> ragnar</h1>
+<h1><img src="https://raw.githubusercontent.com/mrsmn/ragnar/master/doc/ragnar.png" height=64 alt="ragnar" title="ragnar"> ragnar</h1>
 
 [![PyPi Version](http://img.shields.io/pypi/v/ragnar.svg)](https://pypi.python.org/pypi/ragnar/)   [![Downloads](http://img.shields.io/pypi/dm/ragnar.svg)](https://pypi.python.org/pypi/ragnar/)
 
