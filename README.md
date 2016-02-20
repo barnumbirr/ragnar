@@ -1,7 +1,5 @@
 <h1><img src="https://raw.githubusercontent.com/mrsmn/ragnar/master/doc/ragnar.png" height=64 alt="ragnar" title="ragnar"> ragnar</h1>
 
-[![PyPi Version](http://img.shields.io/pypi/v/ragnar.svg)](https://pypi.python.org/pypi/ragnar/)   [![Downloads](http://img.shields.io/pypi/dm/ragnar.svg)](https://pypi.python.org/pypi/ragnar/)
-
 **ragnar** is an APACHE licensed Python library allowing you to decorate a function in your Python code, making it run in a separate thread.
 
 ## Installation:
@@ -10,9 +8,9 @@ From source use
 
 		$ python setup.py install
 
-or install from PyPi
+or from Github use
 
-		$ pip install ragnar
+		$ pip install git+git://github.com/mrsmn/ragnar
 
 ## Documentation:
 
